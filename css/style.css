@@ -27,14 +27,14 @@ nav {
 }
 
 nav ul {
-    list-style: none; /* Убирает маркеры списка */
-    display: flex; /* Устанавливает горизонтальное расположение элементов списка */
-    margin: 0; /* Убирает отступы вокруг списка */
-    padding: 0; /* Убирает внутренние отступы */
+    list-style: none; 
+    display: flex; 
+    margin: 0; 
+    padding: 0; 
 }
 
 nav li {
-    margin: 0 10px; /* Отступы между элементами списка */
+    margin: 0 10px;
 }
 
 nav a {
@@ -77,29 +77,29 @@ nav a:visited {
 }
 
 details {
-    max-width: 800px; /* Максимальная ширина блока */
-    margin: 20px auto; /* Центрирует блок по горизонтали */
+    max-width: 800px; 
+    margin: 20px auto; 
     
 }
 
 details summary {
-    font-weight: bold; /* Жирный шрифт */
-    padding: 10px; /* Отступы */
+    font-weight: bold;
+    padding: 10px; 
     background-color: #F1D7E9; 
 }
 
 
 .about {
-    padding: 20px; /* Отступ внутри для эстетичности */
-    align-items: center; /* Выравнивание по центру по вертикали */
+    padding: 20px; 
+    align-items: center;
 }
 
 .about hr {
     color: #603333;
 }
 .about p {
-    color: #4a3327; /* Цвет текста */
-    margin: 0; /* Убирает отступы у абзаца */
+    color: #4a3327;
+    margin: 0; 
 }
 
 
